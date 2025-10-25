@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Joseph Nyamaah
 
-<!--
-**Compiler82/Compiler82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🌱 I’m currently learning full-stack web development
+- 🚀 Passionate about building web apps and automation tools
+- 🎯 Goal: Become a software engineer solving real-world problems
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- HTML | CSS | JavaScript | React
+- Node.js | Express | PostgreSQL
+- Git | GitHub | VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
